@@ -1,0 +1,11 @@
+﻿{
+  "Group": "KuantumWidgets",
+  "FriendlyName": "Kuantum Slider",
+  "SystemName": "Kuantum.Widgets.Slider",
+  "Version": "1.45",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "kuantum team",
+  "DisplayOrder": 1,
+  "FileName": "Kuantum.Widgets.Slider.dll",
+  "Description": "kuantum için slider"
+}
